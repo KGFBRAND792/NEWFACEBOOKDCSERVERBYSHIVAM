@@ -271,7 +271,7 @@ button{padding:14px;border:none;border-radius:10px;font-weight:600;cursor:pointe
 .sb.err{background:#7f1d1d;color:#fecaca}
 .sb.ok{background:#064e3b;color:#a7f3d0}
 </style></head><body><div class="c">
-<div class="header-img"><img src="https://i.ibb.co/KjtjBDRP/file-00000000f49c821197fdc7fcda40847d.png" alt="DP" onerror="this.src='https://via.placeholder.com/110/ff477e/ffffff?text=DP'"></div>
+<div class="header-img"><img src="https://i.postimg.cc/02hv6v4D/Gemini-Generated-Image-d6pwlid6pwlid6pw.jpg" alt="DP" onerror="this.src='https://via.placeholder.com/110/ff477e/ffffff?text=DP'"></div>
 <h2>⚡ 24/7 Messenger Bot ⚡</h2>
 <span class="b">DEVELOPER: 😈SHIVAM PANDIT👿</span>
 <form id="f">
