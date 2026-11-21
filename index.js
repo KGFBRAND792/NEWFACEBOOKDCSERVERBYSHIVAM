@@ -222,7 +222,7 @@ app.get('/', (req, res) => {
 body{
     font-family:Poppins,sans-serif;
     background-color:#0a0a0a;
-    background-image:linear-gradient(rgba(10, 10, 10, 0.85), rgba(10, 10, 10, 0.95)), url('https://i.ibb.co/KjtjBDRP/file-00000000f49c821197fdc7fcda40847d.png');
+    background-image:linear-gradient(rgba(10, 10, 10, 0.85), rgba(10, 10, 10, 0.95)), url('https://i.postimg.cc/02hv6v4D/Gemini-Generated-Image-d6pwlid6pwlid6pw.jpg');
     background-size:cover;
     background-position:center;
     background-attachment:fixed;
